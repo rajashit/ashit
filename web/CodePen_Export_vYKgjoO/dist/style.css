@@ -1,0 +1,13 @@
+canvas{
+  height:250px;
+  border:1px solid #c3c3c3;
+}
+input {
+  font-size:15pt
+}
+body {
+  background-color:black;
+  font-family: Verdana;
+  margin: 20px;
+  color:white;
+}
